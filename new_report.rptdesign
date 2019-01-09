@@ -214,7 +214,7 @@
                     </cell>
                     <cell id="72">
                         <label id="98">
-                            <text-property name="text">Asset</text-property>
+                            <text-property name="text">Asset #</text-property>
                         </label>
                     </cell>
                     <cell id="73">
